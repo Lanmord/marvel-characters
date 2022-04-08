@@ -5,8 +5,8 @@
 2.  Generate a new `.env` file inside the root path of this repository and place them like this:
 
 ```text
-PUBLIC_KEY=12345
-PRIVATE_KEY=12345
+NEXT_PUBLIC_PRIVATE_KEY=12345
+NEXT_PUBLIC_PUBLIC_KEY=12345
 ```
 
 3. Run the development server:
